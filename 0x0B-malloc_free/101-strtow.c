@@ -4,7 +4,7 @@
 /**
 * count_word - count the number of words in a string
 * @s: string to evaluate
-* made by achebe emmanuel 
+* made by achebe emmanuel
 * Return: number of words
 */
 int count_word(char *s)
